@@ -49,3 +49,15 @@
 //     count=0;
 //     document.getElementById("h1").innerHTML=count;
 // }
+let a;
+// a=Math.round(2.32)
+// a=Math.floor(2.32)
+// a=Math.ceil(2.32)
+// a=Math.pow(3,2)
+// a=Math.sqrt(36)
+// a=Math.log(10)
+// a=Math.sin(45) cos tan
+// a=Math.abs(-2.32)
+// a=Math.sign(-976)
+// a=Math.max(3,5,1) min
+// console.log(a)
